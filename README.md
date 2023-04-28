@@ -1,13 +1,5 @@
 
-<img src="" data-canonical-src="" width="400" height="250" />
-
-# [Deep Learning: A Very Short Introduction]()
-
-## [Cybernetics Research Press]()
-
-### By Heitor Baldo
-
-=================
+Deep Learning Notebooks
 
 
 Table of Contents
